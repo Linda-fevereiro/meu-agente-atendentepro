@@ -1,4 +1,4 @@
-# 🧪 Log de Testes - AtendentePro v0.5.0
+# 🧪 Log de Testes - AtendentePro v0.6.1
 
 Este documento registra a execução da arquitetura de múltiplos agentes, demonstrando o roteamento correto entre **Triage**, **Escalation** e **Feedback**.
 
