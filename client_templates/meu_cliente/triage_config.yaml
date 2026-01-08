@@ -1,24 +1,27 @@
 agent_name: "Triage Agent"
 keywords:
-  - agent: "Flow Agent"
-    keywords:
-      - "produto"
-      - "serviço"
-      - "preço"
-      - "comprar"
-  - agent: "Knowledge Agent"
-    keywords:
-      - "documentação"
-      - "manual"
-      - "como funciona"
-      - "erro"
-  - agent: "Escalation Agent"
-    keywords:
-      - "falar com humano"
-      - "atendente"
-      - "pessoa"
-  - agent: "Feedback Agent"
-    keywords:
-      - "reclamação"
-      - "sugestão"
-      - "elogio"
+  "Flow Agent":
+    - "produto"
+    - "serviço"
+    - "preço"
+    - "comprar"
+    - "vendas"
+  
+  "Knowledge Agent":
+    - "documentação"
+    - "manual"
+    - "como funciona"
+    - "erro"
+    - "suporte técnico"
+  
+  "Escalation Agent":
+    - "falar com humano"
+    - "atendente"
+    - "pessoa"
+    - "falar com gente"
+  
+  "Feedback Agent":
+    - "reclamação"
+    - "sugestão"
+    - "elogio"
+    - "ouvidoria"

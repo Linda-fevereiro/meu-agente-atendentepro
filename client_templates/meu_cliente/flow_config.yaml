@@ -1,11 +1,11 @@
 agent_name: "Flow Agent"
 topics:
-  - id: 1
+  - id: "1"
     label: "Vendas"
     keywords: ["comprar", "preço", "orçamento"]
-  - id: 2
+  - id: "2"
     label: "Suporte"
     keywords: ["problema", "erro", "ajuda"]
-  - id: 3
+  - id: "3"
     label: "Financeiro"
     keywords: ["pagamento", "boleto", "fatura"]
