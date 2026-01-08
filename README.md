@@ -1,4 +1,4 @@
-# 🤖 Projeto AtendentePro - Arquitetura Multi-Agentes (v0.5.3)
+# 🤖 Projeto AtendentePro - Arquitetura Multi-Agentes (v0.6.1)
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/iaragomes-dev/meu-agente-atendentepro)
 
