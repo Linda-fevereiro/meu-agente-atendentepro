@@ -3,9 +3,12 @@ import os
 import random
 from dotenv import load_dotenv
 
-
 load_dotenv()
 
+configure_monkai_trace(
+    tracer_token=os.getenv("MONKAI_TRACER_TOKEN"), # Pega a senha do arquivo .env
+    namespace="meu-projeto",
+)
 
 class Cor:
     AZUL = '\033[94m'
