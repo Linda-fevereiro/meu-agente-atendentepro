@@ -5,11 +5,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-configure_monkai_trace(
-    tracer_token=os.getenv("MONKAI_TRACER_TOKEN"), # Pega a senha do arquivo .env
-    namespace="meu-projeto",
+configure_application_insights(
+    connection_string=os.getenv("AZURE_CONNECTION_STRING")
 )
-
 class Cor:
     AZUL = '\033[94m'
     VERDE = '\033[92m'
